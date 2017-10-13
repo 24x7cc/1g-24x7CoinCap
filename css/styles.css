@@ -42,8 +42,15 @@
 	padding: 15px 0;
 }
 
+.logo {
+  float: left;
+  margin-right: 10px;
+  font-size: 24px;
+}
+
 .logo-container {
 	height: 100%;
+  cursor: default;
 }
 
 .logo-description {

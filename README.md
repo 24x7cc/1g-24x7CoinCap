@@ -1,10 +1,10 @@
-# Личный проект «Deviora slider»
+# Личный проект «CoinCap»
 
 
 ---
 
 _Не удаляйте и не изменяйте папки и файлы:_
-_`.editorconfig`, `.gitignore`, `package.json`._
+_`.gitignore`._
 
 ---
 
@@ -18,17 +18,17 @@ _`.editorconfig`, `.gitignore`, `package.json`._
 
 Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
 
-<img width="769" alt="Press 'Fork'" src="https://image.prntscr.com/image/pi86GuaRSAacEPQ-YlMSOg.png">
+<img width="769" alt="Press 'Fork'" src="https://image.prntscr.com/image/sMcmKaHtRVmpHC7kNJszmg.png">
 
 Получится вот так:
 
-<img width="769" alt="Forked" src="https://image.prntscr.com/image/36a8Xk-TRHCJ3LqmCXnJag.png">
+<img width="769" alt="Forked" src="https://image.prntscr.com/image/kFHWRM72SR_xHCqHW3qKtg.png">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
 Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
 
-<img width="769" alt="SSH" src="https://image.prntscr.com/image/D4qWl1eoRV2Ug6CHt4pCSQ.png">
+<img width="769" alt="SSH" src="https://image.prntscr.com/image/SUBBM8CsSAGtfiehtVs4Yw.png">
 
 Клонировать репозиторий можно так:
 
